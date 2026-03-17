@@ -8,7 +8,7 @@
 
 **A hacker-themed encryption & decryption web app built with Python and Streamlit.**
 
-[🚀 Live Demo](#) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
+[🚀 Live Demo](https://encryption-tool-jnujebfelc73tgncxg8t3t.streamlit.app/) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
 
 </div>
 
