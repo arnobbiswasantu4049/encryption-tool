@@ -92,7 +92,7 @@ pip install streamlit cryptography qrcode[pil]
 ```
 encryption-tool/
 │
-├── encryption_tool.py     # Main app file
+├── message_encryp.py     # Main app file
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
